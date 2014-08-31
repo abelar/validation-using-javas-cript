@@ -1,6 +1,6 @@
-validation-using-javas-cript
-============================
+
 // Form.php//
+
 <!doctype html>
 <html>
 	<head>
@@ -11,7 +11,7 @@ validation-using-javas-cript
 	<body>
 		<div id="wrap">
 		<h2> LVCC Computer Programming <br> 
-			 Second Year-First Semester <br> 
+			 Second Year <br> 
 			 S.Y.2014-2015 </b></center></h2>
 			<table border="2" width = 100%>
 					<tr>
